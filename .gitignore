@@ -8,6 +8,9 @@
 
 # Node
 /node_modules
+
+# Auth tokens (NEVER commit)
+.npmrc
 npm-debug.log
 yarn-error.log
 
@@ -41,3 +44,4 @@ __screenshots__/
 # System files
 .DS_Store
 Thumbs.db
+.npmrc
