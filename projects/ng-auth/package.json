@@ -1,5 +1,5 @@
 {
-  "name": "@socoti/ng-auth",
+  "name": "@socoti-systems/ng-auth",
   "version": "0.1.0",
   "description": "Shared authentication library for Socoti Angular applications. Zitadel OIDC + in-memory tokens + silent refresh.",
   "peerDependencies": {
@@ -19,6 +19,6 @@
     "directory": "projects/ng-auth"
   },
   "publishConfig": {
-    "@socoti:registry": "https://npm.pkg.github.com"
+    "@socoti-systems:registry": "https://npm.pkg.github.com"
   }
 }
